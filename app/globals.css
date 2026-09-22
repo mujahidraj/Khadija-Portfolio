@@ -1,0 +1,110 @@
+/* =============================================================================
+   Global Styles — Portfolio (Tailwind CSS v4)
+   =============================================================================
+   EDITING GUIDE:
+   • Tailwind v4 uses CSS-based configuration via @theme directive
+   • Colour palette, fonts, and custom utilities are all defined here
+   • Component-specific styles should use Tailwind utilities in components
+   • IMPORTANT: @import rules must appear before all other rules
+   ========================================================================== */
+
+/* ---------- Google Fonts (must be FIRST) ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ---------- Tailwind (must come after external imports) ---------- */
+@import "tailwindcss";
+
+/* ---------- Tailwind v4 Theme Configuration ---------- */
+@theme {
+  /* Colour palette: warm wood tones */
+  --color-wood-50:  #fdf8f0;
+  --color-wood-100: #f9ecd8;
+  --color-wood-200: #f0d4a8;
+  --color-wood-300: #e5b56e;
+  --color-wood-400: #d9943e;
+  --color-wood-500: #c87a24;
+  --color-wood-600: #a85e1a;
+  --color-wood-700: #854618;
+  --color-wood-800: #6d391a;
+  --color-wood-900: #5a3018;
+
+  /* Colour palette: dark metal accents */
+  --color-metal-50:  #f5f5f6;
+  --color-metal-100: #e5e5e7;
+  --color-metal-200: #cdcdd1;
+  --color-metal-300: #a9a9b0;
+  --color-metal-400: #7e7e88;
+  --color-metal-500: #63636d;
+  --color-metal-600: #55555d;
+  --color-metal-700: #48484f;
+  --color-metal-800: #3f3f44;
+  --color-metal-900: #27272a;
+  --color-metal-950: #18181b;
+
+  /* Overriding default stone with our new inverted palette for light theme */
+  --color-stone-50:  #140510;
+  --color-stone-100: #2D0D25;
+  --color-stone-200: #48193d;
+  --color-stone-300: #6b265c;
+  --color-stone-400: #913d7f;
+  --color-stone-500: #b45e9e;
+  --color-stone-600: #d18abf;
+  --color-stone-700: #e6b3d9;
+  --color-stone-800: #f4d4ec;
+  --color-stone-900: #f9e3ef;
+  --color-stone-950: #fdf0ed;
+
+  /* Typography */
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
+
+  /* Custom animation */
+  --animate-fade-up: fade-up 0.6s ease-out forwards;
+
+  @keyframes fade-up {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+}
+
+/* ---------- Base resets ---------- */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--color-stone-950);
+    color: var(--color-stone-200);
+    font-family: var(--font-sans);
+  }
+
+  /* Elegant selection colour */
+  ::selection {
+    background-color: rgb(180 83 9 / 0.4);
+    color: var(--color-amber-50);
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-stone-900);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-stone-700);
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-stone-600);
+  }
+}
+
+/* ---------- Modal backdrop blur ---------- */
+.modal-backdrop {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}

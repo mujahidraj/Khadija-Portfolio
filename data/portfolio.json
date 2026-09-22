@@ -1,0 +1,290 @@
+{
+  "designer": {
+    "name": "Nusrat Jahan Mim",
+    "title": "Wood & Metal Furniture Designer",
+    "tagline": "Crafting heirloom-quality furniture where warm timber meets forged steel.",
+    "bio": "I'm Nusrat — a furniture designer with five years of hands-on experience shaping solid hardwoods and raw metals into functional works of art. My practice sits at the intersection of traditional joinery and contemporary metalwork: every piece I build is designed to honor the natural grain of the wood while celebrating the strength and geometry of steel. I believe furniture should outlast trends, age beautifully, and tell a quiet story about the materials it's made from. When I'm not in the workshop, I'm sourcing reclaimed timber from old Dhaka buildings or sketching new joint details over cha.",
+    "yearsExperience": 5,
+    "profileImage": "/assets/profile.jpg",
+    "socials": {
+      "instagram": "https://instagram.com/mim.furncraft",
+      "linkedin": "https://linkedin.com/in/nusratjahanmim",
+      "email": "hello@mimfurncraft.com"
+    }
+  },
+  "skills": [
+    "TIG Welding",
+    "Hand-Cut Joinery",
+    "Wood Turning",
+    "Metal Fabrication",
+    "CAD / SolidWorks",
+    "Sustainable Sourcing",
+    "Powder Coating",
+    "Upholstery Basics",
+    "CNC Routing",
+    "Wood Finishing & Staining",
+    "Blacksmithing",
+    "Furniture Prototyping"
+  ],
+  "experience": [
+    {
+      "role": "Founder & Lead Designer",
+      "company": "Mim FurnCraft Studio",
+      "location": "Dhanmondi, Dhaka",
+      "startDate": "2024",
+      "endDate": "Present",
+      "description": "Running my own workshop and design studio, taking commissions for bespoke wood and metal furniture. Managing end-to-end — from client consultations and concept sketches through material sourcing, fabrication, finishing, and delivery.",
+      "highlights": ["Completed 20+ custom commissions", "Built a 1,200 sq ft workshop", "Launched Instagram portfolio to 8K followers"]
+    },
+    {
+      "role": "Furniture Designer",
+      "company": "Kanto Design Lab",
+      "location": "Uttara, Dhaka",
+      "startDate": "2022",
+      "endDate": "2024",
+      "description": "Designed and prototyped residential and commercial furniture lines for a multidisciplinary design studio. Collaborated with interior architects on site-specific pieces and led the metal fabrication workshop.",
+      "highlights": ["Designed modular shelving system adopted by 3 commercial clients", "Introduced powder-coating workflow", "Mentored 2 junior fabricators"]
+    },
+    {
+      "role": "Workshop Collaborator",
+      "company": "Noor Collective",
+      "location": "Dhanmondi, Dhaka",
+      "startDate": "2021",
+      "endDate": "2022",
+      "description": "Shared studio space with a collective of artisans, contributing metalwork and welding expertise to collaborative furniture and lighting projects. Participated in group exhibitions and craft fairs across Dhaka.",
+      "highlights": ["Exhibited at Raisa Furniture Exhibition 2021", "Co-designed 5 lighting fixtures", "Built forge-welding station for the collective"]
+    },
+    {
+      "role": "Apprentice Woodworker",
+      "company": "Rahim & Sons Woodworks",
+      "location": "Mirpur, Dhaka",
+      "startDate": "2020",
+      "endDate": "2021",
+      "description": "Trained under master woodworker Karim Rahim, learning traditional Bangladeshi joinery techniques, hand-tool skills, and wood selection. Assisted on heritage restoration projects and custom residential commissions.",
+      "highlights": ["Mastered mortise-and-tenon joinery", "Assisted restoration of 3 heritage pieces", "Learned sustainable timber sourcing"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Walnut & Blackened Steel Dining Table",
+      "category": "Hybrid",
+      "year": 2025,
+      "materials": ["Solid Walnut", "Blackened Mild Steel", "Brass Hardware"],
+      "description": "A statement dining table built for a growing family who wanted something they'd never replace. The 8-foot walnut slab is book-matched and finished with hand-rubbed tung oil, while the geometric steel base is blackened with beeswax to develop a living patina. Brass pins lock the top to the frame without visible fasteners.",
+      "thumbnail": "/assets/projects/project-1/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-1/gallery-1.jpg",
+        "/assets/projects/project-1/gallery-2.jpg",
+        "/assets/projects/project-1/gallery-3.jpg"
+      ],
+      "client": "Private Residence, Gulshan, Dhaka",
+      "featured": true
+    },
+    {
+      "id": "project-2",
+      "title": "Reclaimed Teak Console",
+      "category": "Wood",
+      "year": 2024,
+      "materials": ["Reclaimed Teak", "Hand-Forged Iron Nails", "Natural Shellac"],
+      "description": "Salvaged teak planks from a century-old riverboat were cleaned, re-sawn, and joined with traditional mortise-and-tenon joints to create a low console for a heritage apartment. The grain tells a story of decades of sun and monsoon — I simply cleaned it up and let the wood speak.",
+      "thumbnail": "/assets/projects/project-2/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-2/gallery-1.jpg",
+        "/assets/projects/project-2/gallery-2.jpg",
+        "/assets/projects/project-2/gallery-3.jpg"
+      ],
+      "client": "Anika Rahman, Interior Architect",
+      "featured": true
+    },
+    {
+      "id": "project-3",
+      "title": "Forged Iron Floor Lamp",
+      "category": "Metal",
+      "year": 2024,
+      "materials": ["Hand-Forged Mild Steel", "Copper Socket", "Linen Shade"],
+      "description": "A sculptural floor lamp inspired by the branching forms of banyan roots. Each arm is drawn from a single bar of mild steel, forge-welded and textured at the anvil. The warm copper socket and natural linen shade soften the industrial silhouette for residential use.",
+      "thumbnail": "/assets/projects/project-3/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-3/gallery-1.jpg",
+        "/assets/projects/project-3/gallery-2.jpg"
+      ],
+      "client": "Noor Collective Studio, Dhanmondi",
+      "featured": false
+    },
+    {
+      "id": "project-4",
+      "title": "Live-Edge Mahogany Bench",
+      "category": "Wood",
+      "year": 2023,
+      "materials": ["Live-Edge Mahogany", "Ebony Butterfly Keys", "Danish Oil"],
+      "description": "A sculptural entryway bench carved from a single slab of Chittagong mahogany. Butterfly keys in contrasting ebony stabilize a natural crack that runs the length of the piece, turning a flaw into a design feature. The tapered legs are shaped on the lathe and wedged through the seat.",
+      "thumbnail": "/assets/projects/project-4/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-4/gallery-1.jpg",
+        "/assets/projects/project-4/gallery-2.jpg",
+        "/assets/projects/project-4/gallery-3.jpg"
+      ],
+      "client": "Private Residence, Banani",
+      "featured": true
+    },
+    {
+      "id": "project-5",
+      "title": "Powder-Coated Steel Shelving System",
+      "category": "Metal",
+      "year": 2023,
+      "materials": ["Powder-Coated Steel", "Brass Shelf Pins", "Smoked Glass"],
+      "description": "A modular wall-mounted shelving system designed for a design studio's library. The matte-black steel frame uses a peg-and-slot system so shelves can be repositioned without tools. Smoked-glass shelves add visual lightness while brass pins provide warm accents at every connection point.",
+      "thumbnail": "/assets/projects/project-5/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-5/gallery-1.jpg",
+        "/assets/projects/project-5/gallery-2.jpg"
+      ],
+      "client": "Kanto Design Lab, Uttara",
+      "featured": false
+    },
+    {
+      "id": "project-6",
+      "title": "Oak & Copper Bar Cart",
+      "category": "Hybrid",
+      "year": 2022,
+      "materials": ["White Oak", "Patinated Copper Tubing", "Leather Straps"],
+      "description": "A mobile bar cart that pairs quarter-sawn white oak trays with a bent-copper frame. The copper was intentionally patinated with salt and vinegar to achieve an aged verdigris tone. Saddle-leather straps wrap the push handle and secure glassware during movement.",
+      "thumbnail": "/assets/projects/project-6/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-6/gallery-1.jpg",
+        "/assets/projects/project-6/gallery-2.jpg",
+        "/assets/projects/project-6/gallery-3.jpg"
+      ],
+      "client": "The Muse Lounge, Gulshan 2",
+      "featured": true
+    },
+    {
+      "id": "project-7",
+      "title": "Ash & Steel Rocking Chair",
+      "category": "Hybrid",
+      "year": 2021,
+      "materials": ["Steam-Bent Ash", "Mild Steel Runners", "Woven Jute Seat"],
+      "description": "A modern reinterpretation of the Windsor rocking chair with steam-bent ash spindles and a hand-woven jute seat. The rocker rails are fabricated from flat steel bar, creating a clean visual line that contrasts the organic curves of the wood. The geometry was prototyped in SolidWorks and refined over three full-scale mock-ups.",
+      "thumbnail": "/assets/projects/project-7/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-7/gallery-1.jpg",
+        "/assets/projects/project-7/gallery-2.jpg"
+      ],
+      "client": "Raisa Furniture Exhibition 2021",
+      "featured": false
+    },
+    {
+      "id": "project-8",
+      "title": "Corten Steel Garden Table",
+      "category": "Metal",
+      "year": 2026,
+      "materials": ["Corten Weathering Steel", "Concrete Top", "Stainless Levelers"],
+      "description": "An outdoor dining table designed to embrace the elements rather than resist them. The Corten steel base develops a rich, protective rust patina over seasons, while the cast-concrete top is sealed to repel water. Stainless steel leveling feet keep everything stable on uneven garden ground.",
+      "thumbnail": "/assets/projects/project-8/thumb.jpg",
+      "gallery": [
+        "/assets/projects/project-8/gallery-1.jpg",
+        "/assets/projects/project-8/gallery-2.jpg",
+        "/assets/projects/project-8/gallery-3.jpg"
+      ],
+      "client": "Café Patina, Mirpur DOHS",
+      "featured": true
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Farhan Iqbal",
+      "role": "Homeowner",
+      "quote": "Nusrat built our dining table two years ago and it has become the absolute center of our home. Friends notice it the moment they walk in — the way the walnut grain catches the light is extraordinary. It's the kind of piece you want to pass down."
+    },
+    {
+      "name": "Anika Rahman",
+      "role": "Interior Architect",
+      "quote": "Working with Nusrat is a rare pleasure. She understands materiality at a level most designers don't — she'll tell you how a joint will age in ten years, not just how it looks on day one. Her reclaimed teak console is one of the finest pieces I've ever specified for a client."
+    },
+    {
+      "name": "Tariq Hossain",
+      "role": "Studio Client",
+      "quote": "The shelving system Nusrat designed for our studio is both beautiful and incredibly functional. It survived a full office rearrangement — we just re-pinned the shelves in twenty minutes. Brilliant engineering hidden inside gorgeous design."
+    },
+    {
+      "name": "Sadia Chowdhury",
+      "role": "Café Owner",
+      "quote": "We needed outdoor furniture that could handle Dhaka's monsoons and still look premium. Nusrat suggested Corten steel and it was a revelation — the patina gets more beautiful every month. Our customers constantly ask about the tables."
+    }
+  ],
+  "stats": [
+    { "value": 50, "suffix": "+", "label": "Pieces Crafted" },
+    { "value": 12, "suffix": "+", "label": "Clients Served" },
+    { "value": 3, "suffix": "", "label": "Exhibitions" },
+    { "value": 1200, "suffix": "", "label": "Sq Ft Workshop" }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Consultation & Sketches",
+      "description": "Every project starts with a conversation. I sit down with the client to understand their space, their lifestyle, and how the piece will be used. Then I translate those needs into hand-drawn concept sketches — usually 3-4 directions to choose from.",
+      "icon": "pencil"
+    },
+    {
+      "step": 2,
+      "title": "CAD & Prototyping",
+      "description": "Once we settle on a direction, I build a detailed 3D model in SolidWorks — refining proportions, testing joinery, and generating cut lists. For complex pieces, I build a scaled mock-up in cheap pine to test ergonomics before committing to the real material.",
+      "icon": "cube"
+    },
+    {
+      "step": 3,
+      "title": "Material Sourcing",
+      "description": "I hand-select every board and every steel section. For wood, that means visiting sawmills and reclamation yards across Dhaka and Chattogram, checking moisture content, grain, and character. Metals are sourced from trusted local suppliers I've built relationships with over the years.",
+      "icon": "search"
+    },
+    {
+      "step": 4,
+      "title": "Cutting & Joinery",
+      "description": "This is where the workshop comes alive. Wood is milled, planed, and joined — mostly with traditional mortise-and-tenon or dovetail joints, reinforced where needed. Metalwork is cut, welded, and ground at the fabrication bench. Every joint is test-fitted dry before final assembly.",
+      "icon": "hammer"
+    },
+    {
+      "step": 5,
+      "title": "Finishing & Delivery",
+      "description": "Wood surfaces are hand-sanded through progressively finer grits, then finished with oils, waxes, or lacquers depending on use. Metal is powder-coated, blackened, or left raw. The final piece is inspected, wrapped, and delivered to the client's space — often with a hand-written care guide.",
+      "icon": "sparkle"
+    }
+  ],
+  "clients": [
+    { "name": "Kanto Design Lab", "type": "Design Studio" },
+    { "name": "The Muse Lounge", "type": "Hospitality" },
+    { "name": "Noor Collective", "type": "Art Collective" },
+    { "name": "Café Patina", "type": "Restaurant" },
+    { "name": "Anika Rahman Studio", "type": "Interior Architecture" },
+    { "name": "Raisa Exhibition", "type": "Exhibition" },
+    { "name": "Rahim & Sons Woodworks", "type": "Heritage Workshop" },
+    { "name": "Mirpur DOHS Residents", "type": "Private Residential" }
+  ],
+  "faq": [
+    {
+      "question": "How long does a custom piece take?",
+      "answer": "Most commissions take 6–10 weeks from initial consultation to delivery. Simpler pieces like shelving or side tables can be ready in 3–4 weeks, while large dining tables or complex hybrid designs may take up to 12 weeks. I'll give you a realistic timeline at our first meeting."
+    },
+    {
+      "question": "What areas do you deliver to?",
+      "answer": "I deliver anywhere within Dhaka city and can arrange white-glove delivery across Bangladesh. For international clients, I work with a trusted freight partner who handles crating and shipping. Delivery within Dhaka is included; outside Dhaka, shipping is quoted separately."
+    },
+    {
+      "question": "Can I choose my own wood species or metal finish?",
+      "answer": "Absolutely — material selection is a collaborative process. I'll walk you through what's available, what works best for your use case, and what fits your budget. I keep a rotating inventory of walnut, teak, mahogany, ash, and oak, and can source specialty species on request."
+    },
+    {
+      "question": "How do I care for my furniture?",
+      "answer": "Each piece ships with a custom care guide. Generally: dust with a soft cloth, avoid direct sunlight and heat sources, re-oil wood surfaces every 6–12 months with the same finish I used, and wipe metal with a dry cloth. I offer a free annual touch-up service for the first two years."
+    },
+    {
+      "question": "What's your pricing like?",
+      "answer": "Pricing depends on size, materials, and complexity. A simple solid-wood side table starts around ৳25,000, while a full dining table with a steel base typically ranges from ৳80,000 to ৳1,50,000. I provide a detailed quote after our first consultation — no surprises."
+    },
+    {
+      "question": "Do you take on commercial projects?",
+      "answer": "Yes — I've furnished cafés, design studios, and co-working spaces. For commercial work, I can produce small batches (up to 10–15 identical pieces) and work with your architect or interior designer on specifications. Volume pricing is available for larger orders."
+    }
+  ]
+}
