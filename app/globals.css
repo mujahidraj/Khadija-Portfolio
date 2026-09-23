@@ -42,17 +42,17 @@
   --color-metal-950: #18181b;
 
   /* Overriding default stone with our new inverted palette for light theme */
-  --color-stone-50:  #140510;
-  --color-stone-100: #2D0D25;
-  --color-stone-200: #48193d;
-  --color-stone-300: #6b265c;
-  --color-stone-400: #913d7f;
-  --color-stone-500: #b45e9e;
-  --color-stone-600: #d18abf;
-  --color-stone-700: #e6b3d9;
-  --color-stone-800: #f4d4ec;
-  --color-stone-900: #f9e3ef;
-  --color-stone-950: #fdf0ed;
+  --color-stone-50:  #3a0110;
+  --color-stone-100: #4e1927;
+  --color-stone-200: #61323d;
+  --color-stone-300: #754a54;
+  --color-stone-400: #88636b;
+  --color-stone-500: #9c7b82;
+  --color-stone-600: #af9398;
+  --color-stone-700: #c3acaf;
+  --color-stone-800: #d6c4c6;
+  --color-stone-900: #eadddc;
+  --color-stone-950: #fdf5f3;
 
   /* Typography */
   --font-serif: 'Playfair Display', Georgia, serif;
