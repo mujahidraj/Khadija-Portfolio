@@ -13,55 +13,41 @@
     }
   },
   "skills": [
-    "TIG Welding",
-    "Hand-Cut Joinery",
-    "Wood Turning",
-    "Metal Fabrication",
-    "CAD / SolidWorks",
-    "Sustainable Sourcing",
-    "Powder Coating",
-    "Upholstery Basics",
-    "CNC Routing",
-    "Wood Finishing & Staining",
-    "Blacksmithing",
-    "Furniture Prototyping"
+    "Auto CAD",
+    "Autodesk 3ds Max",
+    "Sketchup",
+    "Autodesk ArtCAM",
+    "Juki Sewing Software",
+    "Photoshop",
+    "Illustrator",
+    "Blender"
   ],
   "experience": [
     {
-      "role": "Founder & Lead Designer",
-      "company": "Mim FurnCraft Studio",
-      "location": "Dhanmondi, Dhaka",
-      "startDate": "2024",
-      "endDate": "Present",
-      "description": "Running my own workshop and design studio, taking commissions for bespoke wood and metal furniture. Managing end-to-end — from client consultations and concept sketches through material sourcing, fabrication, finishing, and delivery.",
-      "highlights": ["Completed 20+ custom commissions", "Built a 1,200 sq ft workshop", "Launched Instagram portfolio to 8K followers"]
+      "role": "Executive",
+      "company": "Brothers Furniture Ltd.",
+      "location": "Birulia, Savar, Dhaka",
+      "startDate": "August 2021",
+      "endDate": "June 2026",
+      "description": "Managed the overall production system for corporate orders, handling everything from new product concepts and market research to final client handovers. Directed product development including 3D visualization, AutoCAD manufacturing drawings, CNC design, and knockdown drawing for multi-boring operations. Created SOPs, product BOM/BOQ, and ensured rigorous quality control during field measurements and project execution.",
+      "highlights": [
+        "Led new product prototyping & customized corporate handling",
+        "Created SOPs, operation flowcharts & pricing models",
+        "Managed end-to-end production & client handovers"
+      ]
     },
     {
-      "role": "Furniture Designer",
-      "company": "Kanto Design Lab",
-      "location": "Uttara, Dhaka",
-      "startDate": "2022",
-      "endDate": "2024",
-      "description": "Designed and prototyped residential and commercial furniture lines for a multidisciplinary design studio. Collaborated with interior architects on site-specific pieces and led the metal fabrication workshop.",
-      "highlights": ["Designed modular shelving system adopted by 3 commercial clients", "Introduced powder-coating workflow", "Mentored 2 junior fabricators"]
-    },
-    {
-      "role": "Workshop Collaborator",
-      "company": "Noor Collective",
-      "location": "Dhanmondi, Dhaka",
-      "startDate": "2021",
-      "endDate": "2022",
-      "description": "Shared studio space with a collective of artisans, contributing metalwork and welding expertise to collaborative furniture and lighting projects. Participated in group exhibitions and craft fairs across Dhaka.",
-      "highlights": ["Exhibited at Raisa Furniture Exhibition 2021", "Co-designed 5 lighting fixtures", "Built forge-welding station for the collective"]
-    },
-    {
-      "role": "Apprentice Woodworker",
-      "company": "Rahim & Sons Woodworks",
-      "location": "Mirpur, Dhaka",
-      "startDate": "2020",
-      "endDate": "2021",
-      "description": "Trained under master woodworker Karim Rahim, learning traditional Bangladeshi joinery techniques, hand-tool skills, and wood selection. Assisted on heritage restoration projects and custom residential commissions.",
-      "highlights": ["Mastered mortise-and-tenon joinery", "Assisted restoration of 3 heritage pieces", "Learned sustainable timber sourcing"]
+      "role": "Jr. Architect",
+      "company": "Dream Architect and Engineering.",
+      "location": "Sineboard, Jatrabari, Dhaka",
+      "startDate": "November 2020",
+      "endDate": "June 2021",
+      "description": "Supported architectural and structural design workflows using AutoCAD. Handled comprehensive project requirements including floor plans, elevations, sections, and detailed drawings for furniture, electrical, and plumbing systems.",
+      "highlights": [
+        "Produced 3D models with 3ds Max/SketchUp & V-Ray renders",
+        "Conducted site visits & maintained strong client relationships",
+        "Executed complete structural & architectural layouts"
+      ]
     }
   ],
   "projects": [
